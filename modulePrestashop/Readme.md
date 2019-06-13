@@ -1,0 +1,1 @@
+# Smoke Milky Prestashop module
