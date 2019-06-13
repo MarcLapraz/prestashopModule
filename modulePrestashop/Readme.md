@@ -1,1 +1,1 @@
-# Prestshop Module developpement 
+# Prestshop Module 
