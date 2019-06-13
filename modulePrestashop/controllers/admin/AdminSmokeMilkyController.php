@@ -1,6 +1,5 @@
 <?php
-class AdminSmokeMilkyController extends ModuleAdminController 
-{
+class AdminSmokeMilkyController extends ModuleAdminController {
 
 	public function _construct(){
 		parent::_construct();
