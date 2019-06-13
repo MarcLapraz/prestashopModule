@@ -1,1 +1,1 @@
-# Smoke Milky Prestashop module
+# Prestshop Module developpement 
