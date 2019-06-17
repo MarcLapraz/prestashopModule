@@ -1,1 +1,1 @@
-Prestashop module configuration 
+Prestashop module structure / configuration 
